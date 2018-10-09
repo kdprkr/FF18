@@ -1,2 +1,2 @@
 # FF18
-Fantasy Football 2018
+Data visuals for the 2018 season.
